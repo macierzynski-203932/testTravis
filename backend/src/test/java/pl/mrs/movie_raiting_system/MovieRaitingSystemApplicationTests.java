@@ -11,6 +11,7 @@ public class MovieRaitingSystemApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
